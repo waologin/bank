@@ -1,0 +1,10 @@
+{
+    "book": {
+        "price": 50,
+        "file": "path/to/book.pdf"
+    },
+    "game": {
+        "price": 100,
+        "file": "path/to/game.zip"
+    }
+}
